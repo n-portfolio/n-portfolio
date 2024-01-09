@@ -2,8 +2,8 @@ import React from "react";
 
 const ContactForm = () => {
   return (
-    <form action="https://formsubmit.co/narek.sargsyanchess@mail.ru" method="POST">
-      <input type="hidden" name="_next" value="https://n-portfolio.netlify.app/"></input>
+    <form action="https://formsubmit.co/a1f8af2004d3e767f5eeb377bc0a6c61" method="POST">
+      <input type="hidden" name="_next" value="https://narek-portfolio.netlify.app/"></input>
       <h2 className="text-2xl font-bold mb-5 text-white">Contact Me</h2>
       <div className="mb-3">
         <input
