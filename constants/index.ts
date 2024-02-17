@@ -85,19 +85,22 @@ export const Socials = [
 export const Projects = [
   {
     title: "Modern Guitar Website",
-    text: "Modern Guitar Website with localization built with React JS. <a href="https://guitarlesson.github.io/" target="_blank">Click to see</a>",
+    text: "Modern Guitar Website with localization built with React JS. ",
     src: "/NextWebsite.png",
+    href: "https://guitarlesson.github.io/",
   },
 
   {
     title: "Modern Nextjs Portfolio",
-    text: "Modern NextJS Portfolio built from scratch, using many features. <a href="https://narek-portfolio.netlify.app/" target="_blank">Click to see</a>",
+    text: "Modern NextJS Portfolio built from scratch, using many features.",
     src: "/WebPortfolio.png",
+    href: "https://narek-portfolio.netlify.app/",
   },
   {
     title: "Foodie Website",
-    text: "Moder Food Ordering page created with React JS and many futures.<a href="https://pizza-foodie.netlify.app/" target="_blank">Click to see</a> ",
+    text: "Moder Food Ordering page created with React JS and many futures.",
     src: "/forportfolio.png",
+    href: "https://pizza-foodie.netlify.app/",
   },
 ];
 
