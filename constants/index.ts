@@ -95,9 +95,9 @@ export const Projects = [
     src: "/WebPortfolio.png",
   },
   {
-    title: "Website",
-    text: "My one of first projects, I wrote this 2-3 years ago",
-    src: "/Matrix.png",
+    title: "Foodie Website",
+    text: "Moder Food Ordering page created with React JS and many futures. ",
+    src: "/forportfolio.png",
   },
 ];
 
