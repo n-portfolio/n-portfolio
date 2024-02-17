@@ -16,6 +16,7 @@ const Page = () => {
               title={project.title}
               text={project.text}
               image={project.src}
+              href={project.href}
           />
         ))}
       </div>
