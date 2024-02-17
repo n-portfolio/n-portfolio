@@ -44,7 +44,7 @@ const ProjectCard = ({ image, title, text}: Props) => {
                   <div className='flex flex-col gap-10 md:gap-20 py-1 z-[30]'>
                     <h1 className='text-whote text-[15] font-semibold'>{title}</h1>
                     <p className='text-gray-200 text-[11px] md:text-[20px]'>
-                        {text}
+                        {text} <a href={{href}}>Click to see</a>
                     </p>
                   </div>
             </div>
