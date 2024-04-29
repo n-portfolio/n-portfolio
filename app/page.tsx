@@ -19,7 +19,7 @@ export default function Home() {
             </span>
           </h1>
           <p className="text-gray-200 z-[20]  md:block md:z-[0]">
-            Hello! I`m developer from Armenia, my name is Narek, I`m 16 years old
+            Hello! I`m developer from Armenia, my name is Narek, I`m 17 years old
           </p>
           <div className="flex-col md:flex-row md:flex gap-5">
                          <a href="/resume.pdf" download="Narek`s Resume">
