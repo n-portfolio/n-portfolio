@@ -19,7 +19,7 @@ const Page = () => {
               href={project.href}
           />
         ))}
-          <div class="w-[250px] h-[150px]"></div>
+          <div className="w-[250px] h-[150px]"></div>
       </div>
 
     </div>
