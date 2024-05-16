@@ -102,6 +102,12 @@ export const Projects = [
     src: "/forportfolio.png",
     href: "https://pizza-foodie.netlify.app/",
   },
+  {
+    title: "Tic Tac Toe Game",
+    text: "Fullstack Tic Tac Toe game with chat and with reactions, using modern frontend and backend futures",
+    src: "/tictac.png",
+    href: "https://narxando.netlify.app/",
+  },
 ];
 
 export const NavLinks = [
