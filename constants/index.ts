@@ -108,6 +108,12 @@ export const Projects = [
     src: "/tictac.png",
     href: "https://narxando.netlify.app/",
   },
+   {
+    title: "Burger Landing Page",
+    text: "Burger landing page website using pure HTML/CSS/JS futures",
+    src: "/itisforprotfolio.png",
+    href: "https://burgerssite.netlify.app/",
+  },
 ];
 
 export const NavLinks = [
