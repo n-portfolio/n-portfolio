@@ -111,7 +111,7 @@ export const Projects = [
    {
     title: "Burger Landing Page",
     text: "Burger landing page website using pure HTML/CSS/JS futures",
-    src: "/itisforprotfolio.png",
+    src: "/itisforportfolio.png",
     href: "https://burgerssite.netlify.app/",
   },
 ];
