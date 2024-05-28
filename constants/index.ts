@@ -114,6 +114,12 @@ export const Projects = [
     src: "/itisforportfolio.png",
     href: "https://burgerssite.netlify.app/",
   },
+  {
+    title: "Headphones Website",
+    text: "Website - Landing Page for headphone product, using pure HTML/CSS/JS. With modern animations",
+    src: "/headphones.png",
+    href: "https://headphonessite.netlify.app/",
+  },
 ];
 
 export const NavLinks = [
