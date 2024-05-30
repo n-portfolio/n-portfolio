@@ -49,7 +49,7 @@ const ProjectCard = ({ image, title, text, href}: Props) => {
                     </p>
                   </div>
             </div>
-            <div className="w-[350px] h-[200px] mb-8"></div>
+            <div className="w-[350px] h-[200px]"></div>
         </motion.div>
     </div>
   )
