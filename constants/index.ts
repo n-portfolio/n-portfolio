@@ -120,6 +120,12 @@ export const Projects = [
     src: "/headphones.png",
     href: "https://headphonessite.netlify.app/",
   },
+  {
+    title: "E-cars Website",
+    text: "Landing Page for electronic cars using HTML/CSS/JS with animations",
+    src: "/ecars.png",
+    href: "https://e-carss.netlify.app/",
+  },
 ];
 
 export const NavLinks = [
