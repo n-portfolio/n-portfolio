@@ -5,19 +5,6 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-
-    <html>
-    <head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DVXM8C92QM"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-DVXM8C92QM');
-</script>
-    </head>
-    </html>
     <main className="w-screen h-screen relative">
       <div
         className="flex items-center w-full h-full bg-cover bg-center"
