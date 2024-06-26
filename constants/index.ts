@@ -126,6 +126,12 @@ export const Projects = [
     src: "/ecars.png",
     href: "https://e-carss.netlify.app/",
   },
+   {
+    title: "QR-Code Website",
+    text: "Simple QR-Code Generator created by using React JS with user control HEX color picking system",
+    src: "/lightshot.png",
+    href: "https://ligthshot.netlify.app/",
+  },
 ];
 
 export const NavLinks = [
