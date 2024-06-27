@@ -132,6 +132,12 @@ export const Projects = [
     src: "/lightshot.png",
     href: "https://ligthshot.netlify.app/",
   },
+   {
+    title: "Sushi Website",
+    text: "Website - Landing Page for sushi store, using pure HTML/CSS/JS. With modern animations",
+    src: "/sushi.png",
+    href: "https://websushi.netlify.app/",
+  },
 ];
 
 export const NavLinks = [
