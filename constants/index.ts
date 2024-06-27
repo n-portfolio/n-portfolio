@@ -83,13 +83,12 @@ export const Socials = [
   }
 ];
 export const Projects = [
-  {
-    title: "Modern Guitar Website",
-    text: "Modern Guitar Website with localization built with React JS. ",
-    src: "/NextWebsite.png",
-    href: "https://guitarlesson.github.io/",
+     {
+    title: "Sushi Website",
+    text: "Website - Landing Page for sushi store, using pure HTML/CSS/JS. With modern animations",
+    src: "/sushi.png",
+    href: "https://websushi.netlify.app/",
   },
-
   {
     title: "Modern Nextjs Portfolio",
     text: "Modern NextJS Portfolio built from scratch, using many features.",
@@ -131,12 +130,6 @@ export const Projects = [
     text: "Simple QR-Code Generator created by using React JS with user control HEX color picking system",
     src: "/lightshot.png",
     href: "https://ligthshot.netlify.app/",
-  },
-   {
-    title: "Sushi Website",
-    text: "Website - Landing Page for sushi store, using pure HTML/CSS/JS. With modern animations",
-    src: "/sushi.png",
-    href: "https://websushi.netlify.app/",
   },
 ];
 
