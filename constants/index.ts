@@ -131,6 +131,12 @@ export const Projects = [
     src: "/lightshot.png",
     href: "https://ligthshot.netlify.app/",
   },
+    {
+    title: "Weather App",
+    text: "Weather App created using simple HTML/CSS and Vanilla JS, with API`s - Openweathermap free API",
+    src: "/weatherz.png",
+    href: "https://weatherz-site.netlify.app/",
+  },
 ];
 
 export const NavLinks = [
