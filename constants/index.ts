@@ -137,7 +137,12 @@ export const Projects = [
     src: "/weatherz.png",
     href: "https://weatherz-site.netlify.app/",
   },
-
+    {
+    title: "Coffee Website",
+    text: "Landing Page Coffee Website, HTML/CSS/JS. Modern UI/UX and animations",
+    src: "/coffeesite.png",
+    href: "https://coffeez.netlify.app/",
+  },
 ];
 
 export const NavLinks = [
