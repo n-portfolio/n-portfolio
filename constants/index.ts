@@ -139,7 +139,7 @@ export const Projects = [
   },
   {
     title: "Coffee Website",
-    text: "Website - Landing Page Coffee Website, HTML/CSS/JS. Modern UI/UX and animations",
+    text: "Landing Page Coffee Website, HTML/CSS/JS. Modern UI/UX and animations",
     src: "/coffeesite.png",
     href: "https://coffeez.netlify.app/",
   },
