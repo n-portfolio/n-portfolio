@@ -143,6 +143,18 @@ export const Projects = [
     src: "/coffeesite.png",
     href: "https://coffeez.netlify.app/",
   },
+    {
+    title: "ArmSum",
+    text: "ArmSum is an AI, which summarize articles. Created by using Vite technologies and Redux Toolkit",
+    src: "/armsum.png",
+    href: "https://armsum.netlify.app/",
+  },
+   {
+    title: "",
+    text: "",
+    src: "",
+    href: "",
+  },
 ];
 
 export const NavLinks = [
