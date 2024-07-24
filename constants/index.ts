@@ -161,12 +161,6 @@ export const Projects = [
     src: "/armdocs.png",
     href: "https://armedocs.vercel.app/",
   },
-  {
-    title: "",
-    text: "",
-    src: "",
-    href: "",
-  },
 ];
 
 export const NavLinks = [
