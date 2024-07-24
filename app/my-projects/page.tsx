@@ -21,7 +21,7 @@ const Page = () => {
         ))}
           <div className="w-[250px] h-[150px] md:w-[450px] md:h-[280px] mb-8"></div>
       </div>
-
+         <div className="w-[250px] h-[150px] md:w-[450px] md:h-[280px] mb-8"></div>
     </div>
   )
 }
