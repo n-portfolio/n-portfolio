@@ -155,6 +155,18 @@ export const Projects = [
     src: "/armiphone.png",
     href: "https://armiphone.netlify.app/",
   },
+  {
+    title: "ArmDocs",
+    text: "ArmDocs is live synchronized document editing software, created using Next JS, Typescript and other futures",
+    src: "/armdocs.png",
+    href: "https://armedocs.vercel.app/",
+  },
+  {
+    title: "",
+    text: "",
+    src: "",
+    href: "",
+  },
 ];
 
 export const NavLinks = [
